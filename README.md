@@ -5,7 +5,7 @@ Fully responsive design been tested on several devices
 ## Figma Design:
 https://www.figma.com/file/2UvLO274B9TNdsChCIC0hi/Pricing-UI?node-id=2%3A9&t=YjmP3JfGaYI9Akwu-0
 ## Next App Depoyed:
-https://pricing-ui-seven.vercel.app/
+https://pricing-ui-next-js-tailwind.vercel.app/
 ## To change this design:
 #Follow Steps:
 ```
