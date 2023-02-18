@@ -11,6 +11,7 @@ https://pricing-ui-next-js-tailwind.vercel.app/
 ```
 https://github.com/faranbutt/Pricing-UI-Next.js-Tailwind-.git
 cd Pricing-UI-Next.js-Tailwind-
+npm install
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
